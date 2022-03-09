@@ -1,0 +1,24 @@
+{
+    "all": [
+        { "id": 1, "sign": "libra", "text": "you're cool" },
+        { "id": 2, "sign": "taurus", "text": "you're gonna get married" },
+        { "id": 3, "sign": "scorpio", "text": "you're problems" },
+        { "id": 4, "sign": "virgo", "text": "you're organized" } 
+    ],
+    "libra": [
+        { "id": 1, "sign": "libra", "text": "you're cool" },
+        { "id": 11, "sign": "libra", "text": "you're cool and pretty" }
+    ],
+    "taurus": [
+        { "id": 22, "sign": "taurus", "text": "you're gonna get married" },
+        { "id": 22, "sign": "taurus", "text": "you're gonna get married to ME" }
+    ],
+    "scorpio": [
+        { "id": 3, "sign": "scorpio", "text": "you're problems" },
+        { "id": 33, "sign": "scorpio", "text": "you're problems, and you always will be" }
+    ],
+    "virgo": [
+        { "id": 4, "sign": "virgo", "text": "you're organized" },
+        { "id": 44, "sign": "virgo", "text": "you're organized and I like you" }
+    ]
+}
